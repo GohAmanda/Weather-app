@@ -1,0 +1,6 @@
+A website that allows user to check the weather of a certain city
+
+images: contains all the images used in the website
+index.html: contains all the details needed in the weather website
+script.js: contains the code that allows interactions and updates on the details and action of user
+style.css: contains all the style of the weather website
